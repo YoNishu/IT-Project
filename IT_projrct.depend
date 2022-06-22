@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1623912088 source:f:\it_projrct\main.cpp
+	<iostream>
+	<math.h>
+	"Encryption.h"
+	"Decryption.h"
+	<string.h>
+
+1623852329 f:\it_projrct\include\encryption.h
+	<iostream>
+
+1623912088 source:f:\it_projrct\src\encryption.cpp
+	"Encryption.h"
+	<iostream>
+	<string.h>
+
+1623853029 source:f:\it_projrct\src\decryption.cpp
+	"Decryption.h"
+	<iostream>
+	<string.h>
+	"Encryption.h"
+
+1623852339 f:\it_projrct\include\decryption.h
+	"Encryption.h"
+	<iostream>
+
+1624436796 source:f:\cryptography_202001160_202001024\it_projrct\main.cpp
+	<iostream>
+	<math.h>
+	"Encryption.h"
+	"Decryption.h"
+	<string.h>
+
+1624687362 f:\cryptography_202001160_202001024\it_projrct\include\encryption.h
+	<iostream>
+
+1624687348 f:\cryptography_202001160_202001024\it_projrct\include\decryption.h
+	"Encryption.h"
+	<iostream>
+
+1623853029 source:f:\cryptography_202001160_202001024\it_projrct\src\decryption.cpp
+	"Decryption.h"
+	<iostream>
+	<string.h>
+	"Encryption.h"
+
+1624687223 source:f:\cryptography_202001160_202001024\it_projrct\src\encryption.cpp
+	"Encryption.h"
+	<iostream>
+	<string.h>
+
